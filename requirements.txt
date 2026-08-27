@@ -9,4 +9,3 @@ Pillow==11.3.0
 protobuf==4.25.3
 scikit-learn==1.7.1
 matplotlib==3.10.3
-pywin32==306
